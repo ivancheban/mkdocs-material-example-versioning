@@ -1,4 +1,4 @@
-# This is version 0.2
+# This is version 0.3
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
